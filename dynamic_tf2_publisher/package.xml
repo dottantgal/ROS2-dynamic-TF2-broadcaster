@@ -3,7 +3,7 @@
 <package format="3">
   <name>dynamic_tf2_publisher</name>
   <version>0.0.0</version>
-  <description>TF2 publisher with dynamic reconfiguration</description>
+  <description>TF2 publisher with params reconfiguration at run time</description>
   <maintainer email="dottantgal@users.noreply.github.com">white</maintainer>
   <license>TODO: License declaration</license>
 
